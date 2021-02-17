@@ -1,8 +1,11 @@
+"""
+Create a program that asks the user to enter their name and their age.
+Print out a message addressed to them that tells them the year that they will turn 100 years old.
+"""
 from datetime import datetime
 
 def main():
     YEAR = datetime.now().year
-    calc = 0
     name = input("Please enter your name:")
     age = input("Please enter your age:")
     n = input("How many copies of the message do you want to see?")
@@ -12,7 +15,7 @@ def main():
         for i in range(int(n)):
             print("Hi", name + "!", "You will be 100 in the year", calc)
     except ValueError:
-        # Error, can't turn what they typed into a number
+        # Error, can't turn input into a number
         print("Please enter whole numbers! Let's start over...")
         main()
 
