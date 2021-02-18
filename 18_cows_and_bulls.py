@@ -11,23 +11,26 @@ def start():
         difficulty = int(input("Enter how many digits you want to try: "))
         return difficulty
     except ValueError:
-        print("Whoops! Please choose the length of the number you wish to guess.")
+        print("Whoops! Please enter a number for the length of the code you wish to guess.")
         start()
 
-def main(difficulty):
-    # take in user's desired difficulty and convert to string for formatting
-    # If user enters zero, set length to 4
-    if not difficulty:
-        print("OK, setting number length to default.")
-        difficulty = 4
-    length = str(difficulty)
-    # generate random number user will need to guess
-    # make sure that user didn't enter a negative length
-    try:
-        number = f'{random.randrange(10**difficulty):{length}}'
-    except ValueError:
-        print("Did you enter a negative number?")
-        main(start())
+
+def number_gen(n):
+    # Generate number that is n-digits long that are all unique
+    # Create set of numbers 0-9
+    num_list = [x for x in range(10)]
+    # Set length to 4 if user enters invalid length
+    if n < 1 or n > 10:
+        print("Invalid range, setting number length to default.")
+        n = 4
+    # shuffle set to create a random number
+    random.shuffle(num_list)
+    number = ''.join([str(num_list[i]) for i in range(n)])
+    return number
+
+
+def main(number):
+
     # track attempts
     attempt = 0
     # game will run until user guess correctly
@@ -41,16 +44,16 @@ def main(difficulty):
         # compare user's input versus computer's number
         # warn user if they enter a weird length
         try:
-            for i in range(difficulty):
+            for i in range(len(number)):
                 if guess[i] == number[i]:
-                    cow += 1
-                else:
                     bull += 1
+                elif guess[i] in number and guess[i] != number[i]:
+                    cow += 1
         except IndexError:
-            print("Make sure to only enter a", difficulty, "digit number")
+            print("Make sure to only enter a", len(number), "digit number")
         print("Cows: ", cow, "Bulls: ", bull)
         attempt += 1
-        if cow == len(number):
+        if bull == len(number):
             correct = True
     print("That's it! Thanks for playing!")
     print("Total guesses: ", attempt)
@@ -58,4 +61,4 @@ def main(difficulty):
 
 if __name__ == '__main__':
     print("Welcome to the Cows and Bulls game!\n")
-    main(start())
+    main(number_gen(start()))
