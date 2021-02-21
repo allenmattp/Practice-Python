@@ -1,0 +1,252 @@
+2021-02-19T14:23:15
+
+Symbol: SNDL
+Name: Sundial Growers Inc.
+Price (Intraday): 1.5300
+Change: +0.0800
+% Change: +5.52%
+Volume: 862.619M
+Avg Vol (3 month): 586.365M
+Market Cap: 2.389B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: PLTR
+Name: Palantir Technologies Inc.
+Price (Intraday): 29.00
+Change: +3.83
+% Change: +15.22%
+Volume: 314.027M
+Avg Vol (3 month): 77.866M
+Market Cap: 54.46B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: TSNP
+Name: Tesoro Enterprises, Inc.
+Price (Intraday): 1.0700
+Change: +0.2850
+% Change: +36.31%
+Volume: 116.026M
+Avg Vol (3 month): 164.827M
+Market Cap: 4.169B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: RLLCF
+Name: Rolls-Royce Holdings plc
+Price (Intraday): 0.0321
+Change: -0.0139
+% Change: -30.22%
+Volume: 111.459M
+Avg Vol (3 month): 33.552M
+Market Cap: 699.802B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: AAPL
+Name: Apple Inc.
+Price (Intraday): 129.87
+Change: +0.16
+% Change: +0.12%
+Volume: 84.159M
+Avg Vol (3 month): 103.358M
+Market Cap: 2.18T
+PE Ratio (TTM): 35.22
+52 Week Range: 
+Symbol: RIOT
+Name: Riot Blockchain, Inc.
+Price (Intraday): 71.33
+Change: +9.30
+% Change: +14.99%
+Volume: 73.36M
+Avg Vol (3 month): 32.03M
+Market Cap: 4.817B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: PBR
+Name: Petróleo Brasileiro S.A. - Petrobras
+Price (Intraday): 10.05
+Change: -0.77
+% Change: -7.12%
+Volume: 72.562M
+Avg Vol (3 month): 23.544M
+Market Cap: 65.872B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: CCIV
+Name: Churchill Capital Corp IV
+Price (Intraday): 52.94
+Change: -5.11
+% Change: -8.80%
+Volume: 57.083M
+Avg Vol (3 month): 31.828M
+Market Cap: 13.698B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: GE
+Name: General Electric Company
+Price (Intraday): 12.02
+Change: +0.39
+% Change: +3.35%
+Volume: 60.059M
+Avg Vol (3 month): 80.634M
+Market Cap: 105.391B
+PE Ratio (TTM): 20.87
+52 Week Range: 
+Symbol: CAN
+Name: Canaan Inc.
+Price (Intraday): 24.79
+Change: +7.46
+% Change: +43.05%
+Volume: 51.874M
+Avg Vol (3 month): 13.044M
+Market Cap: 3.884B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: CCL
+Name: Carnival Corporation & plc
+Price (Intraday): 24.59
+Change: +1.70
+% Change: +7.43%
+Volume: 50.689M
+Avg Vol (3 month): 41.455M
+Market Cap: 27.45B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: ZOM
+Name: Zomedica Corp.
+Price (Intraday): 2.2800
+Change: +0.0700
+% Change: +3.17%
+Volume: 50.523M
+Avg Vol (3 month): 176.296M
+Market Cap: 2.159B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: BAC
+Name: Bank of America Corporation
+Price (Intraday): 34.54
+Change: +0.35
+% Change: +1.02%
+Volume: 53.118M
+Avg Vol (3 month): 49.837M
+Market Cap: 298.799B
+PE Ratio (TTM): 18.47
+52 Week Range: 
+Symbol: AAL
+Name: American Airlines Group Inc.
+Price (Intraday): 18.68
+Change: +0.97
+% Change: +5.48%
+Volume: 47.349M
+Avg Vol (3 month): 72.565M
+Market Cap: 11.949B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: GSAT
+Name: Globalstar, Inc.
+Price (Intraday): 2.1500
+Change: -0.0800
+% Change: -3.59%
+Volume: 46.314M
+Avg Vol (3 month): 37.894M
+Market Cap: 3.591B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: F
+Name: Ford Motor Company
+Price (Intraday): 11.58
+Change: +0.15
+% Change: +1.31%
+Volume: 44.832M
+Avg Vol (3 month): 76.682M
+Market Cap: 46.073B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: ITUB
+Name: Itaú Unibanco Holding S.A.
+Price (Intraday): 5.13
+Change: -0.02
+% Change: -0.39%
+Volume: 42.068M
+Avg Vol (3 month): 36.731M
+Market Cap: 47.696B
+PE Ratio (TTM): 8.02
+52 Week Range: 
+Symbol: NIO
+Name: NIO Limited
+Price (Intraday): 55.04
+Change: +0.61
+% Change: +1.12%
+Volume: 41.926M
+Avg Vol (3 month): 129.782M
+Market Cap: 85.802B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: FCX
+Name: Freeport-McMoRan Inc.
+Price (Intraday): 37.49
+Change: +3.35
+% Change: +9.81%
+Volume: 38.18M
+Avg Vol (3 month): 21.018M
+Market Cap: 54.735B
+PE Ratio (TTM): 91.44
+52 Week Range: 
+Symbol: FCEL
+Name: FuelCell Energy, Inc.
+Price (Intraday): 20.22
+Change: +1.76
+% Change: +9.53%
+Volume: 38.646M
+Avg Vol (3 month): 67.845M
+Market Cap: 6.519B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: GOLD
+Name: Barrick Gold Corporation
+Price (Intraday): 19.78
+Change: -0.54
+% Change: -2.66%
+Volume: 37.642M
+Avg Vol (3 month): 19.761M
+Market Cap: 35.034B
+PE Ratio (TTM): 11.62
+52 Week Range: 
+Symbol: WFC
+Name: Wells Fargo & Company
+Price (Intraday): 37.83
+Change: +0.87
+% Change: +2.35%
+Volume: 34.675M
+Avg Vol (3 month): 37.262M
+Market Cap: 156.768B
+PE Ratio (TTM): 92.27
+52 Week Range: 
+Symbol: PLUG
+Name: Plug Power Inc.
+Price (Intraday): 55.89
+Change: +5.66
+% Change: +11.27%
+Volume: 34.055M
+Avg Vol (3 month): 40.856M
+Market Cap: 29.885B
+PE Ratio (TTM): N/A
+52 Week Range: 
+Symbol: ABEV
+Name: Ambev S.A.
+Price (Intraday): 2.8100
+Change: +0.0500
+% Change: +1.81%
+Volume: 30.404M
+Avg Vol (3 month): 22.56M
+Market Cap: 43.98B
+PE Ratio (TTM): 15.97
+52 Week Range: 
+Symbol: VALE
+Name: Vale S.A.
+Price (Intraday): 18.22
+Change: +0.24
+% Change: +1.33%
+Volume: 29.663M
+Avg Vol (3 month): 30.44M
+Market Cap: 93.467B
+PE Ratio (TTM): 157.07
+52 Week Range: 
