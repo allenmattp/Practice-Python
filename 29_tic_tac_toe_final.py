@@ -49,7 +49,10 @@ def game_logic(score_one, score_two):           # track player scores
     vert_o = "| O "
 
     winner = False                              # keep playing until winner declared
-    turn = 0                                    # track whose turn it is
+    if score_one > score_two:                   # The Player with the lower score goes first
+        turn = 1
+    else:                                       # Player 1 goes first if tied or first game
+        turn = 0
 
     while not winner:
         game_board = player_move(game_board, turn)
