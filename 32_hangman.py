@@ -66,6 +66,8 @@ def play_again():
     else:
         hangman_art.ascii(3)
 
+
+
 if __name__ == '__main__':
     file = "sowpods.txt"
     guess_letter(word_gen(file))
