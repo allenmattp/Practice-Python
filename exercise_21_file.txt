@@ -1,252 +1,302 @@
-2021-02-19T14:23:15
+2021-02-21T20:14:55
 
-Symbol: SNDL
-Name: Sundial Growers Inc.
-Price (Intraday): 1.5300
-Change: +0.0800
-% Change: +5.52%
-Volume: 862.619M
-Avg Vol (3 month): 586.365M
-Market Cap: 2.389B
-PE Ratio (TTM): N/A
+Symbol: BTC-USD
+Name: Bitcoin USD
+Price (Intraday): 55,959.84
+Change: -773.63
+% Change: -1.36%
+Market Cap: 1.043T
+Volume in Currency (Since 0:00 UTC): 52.949B
+Volume in Currency (24Hr): 52.949B
+Total Volume All Currencies (24Hr): 52.949B
+Circulating Supply: 18.635M
 52 Week Range: 
-Symbol: PLTR
-Name: Palantir Technologies Inc.
-Price (Intraday): 29.00
-Change: +3.83
-% Change: +15.22%
-Volume: 314.027M
-Avg Vol (3 month): 77.866M
-Market Cap: 54.46B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: ETH-USD
+Name: Ethereum USD
+Price (Intraday): 1,870.33
+Change: -80.15
+% Change: -4.11%
+Market Cap: 214.66B
+Volume in Currency (Since 0:00 UTC): 23.586B
+Volume in Currency (24Hr): 23.586B
+Total Volume All Currencies (24Hr): 23.586B
+Circulating Supply: 114.771M
 52 Week Range: 
-Symbol: TSNP
-Name: Tesoro Enterprises, Inc.
-Price (Intraday): 1.0700
-Change: +0.2850
-% Change: +36.31%
-Volume: 116.026M
-Avg Vol (3 month): 164.827M
-Market Cap: 4.169B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: BNB-USD
+Name: BinanceCoin USD
+Price (Intraday): 275.19
+Change: -3.12
+% Change: -1.12%
+Market Cap: 42.527B
+Volume in Currency (Since 0:00 UTC): 7.201B
+Volume in Currency (24Hr): 7.201B
+Total Volume All Currencies (24Hr): 7.201B
+Circulating Supply: 154.533M
 52 Week Range: 
-Symbol: RLLCF
-Name: Rolls-Royce Holdings plc
-Price (Intraday): 0.0321
-Change: -0.0139
-% Change: -30.22%
-Volume: 111.459M
-Avg Vol (3 month): 33.552M
-Market Cap: 699.802B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: DOT2-USD
+Name: Polkadot USD
+Price (Intraday): 38.93
+Change: -0.64
+% Change: -1.63%
+Market Cap: 35.426B
+Volume in Currency (Since 0:00 UTC): 5.053B
+Volume in Currency (24Hr): 5.053B
+Total Volume All Currencies (24Hr): 5.053B
+Circulating Supply: 910.088M
 52 Week Range: 
-Symbol: AAPL
-Name: Apple Inc.
-Price (Intraday): 129.87
-Change: +0.16
-% Change: +0.12%
-Volume: 84.159M
-Avg Vol (3 month): 103.358M
-Market Cap: 2.18T
-PE Ratio (TTM): 35.22
+1 Day Chart: 
+Symbol: DOT1-USD
+Name: Polkadot USD
+Price (Intraday): 37.88
+Change: -1.49
+% Change: -3.78%
+Market Cap: 34.485B
+Volume in Currency (Since 0:00 UTC): 3.326B
+Volume in Currency (24Hr): 3.326B
+Total Volume All Currencies (24Hr): 3.326B
+Circulating Supply: 910.305M
 52 Week Range: 
-Symbol: RIOT
-Name: Riot Blockchain, Inc.
-Price (Intraday): 71.33
-Change: +9.30
-% Change: +14.99%
-Volume: 73.36M
-Avg Vol (3 month): 32.03M
-Market Cap: 4.817B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: USDT-USD
+Name: Tether USD
+Price (Intraday): 1.0000
+Change: +0.0000
+% Change: +0.00%
+Market Cap: 34.257B
+Volume in Currency (Since 0:00 UTC): 101.506B
+Volume in Currency (24Hr): 101.506B
+Total Volume All Currencies (24Hr): 101.506B
+Circulating Supply: 34.258B
 52 Week Range: 
-Symbol: PBR
-Name: Petróleo Brasileiro S.A. - Petrobras
-Price (Intraday): 10.05
-Change: -0.77
-% Change: -7.12%
-Volume: 72.562M
-Avg Vol (3 month): 23.544M
-Market Cap: 65.872B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: ADA-USD
+Name: Cardano USD
+Price (Intraday): 1.0422
+Change: -0.0881
+% Change: -7.79%
+Market Cap: 32.427B
+Volume in Currency (Since 0:00 UTC): 6.527B
+Volume in Currency (24Hr): 6.527B
+Total Volume All Currencies (24Hr): 6.527B
+Circulating Supply: 31.112B
 52 Week Range: 
-Symbol: CCIV
-Name: Churchill Capital Corp IV
-Price (Intraday): 52.94
-Change: -5.11
-% Change: -8.80%
-Volume: 57.083M
-Avg Vol (3 month): 31.828M
-Market Cap: 13.698B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: XRP-USD
+Name: XRP USD
+Price (Intraday): 0.5307
+Change: -0.0011
+% Change: -0.21%
+Market Cap: 24.097B
+Volume in Currency (Since 0:00 UTC): 6.192B
+Volume in Currency (24Hr): 6.192B
+Total Volume All Currencies (24Hr): 6.192B
+Circulating Supply: 45.404B
 52 Week Range: 
-Symbol: GE
-Name: General Electric Company
-Price (Intraday): 12.02
-Change: +0.39
-% Change: +3.35%
-Volume: 60.059M
-Avg Vol (3 month): 80.634M
-Market Cap: 105.391B
-PE Ratio (TTM): 20.87
+1 Day Chart: 
+Symbol: LTC-USD
+Name: Litecoin USD
+Price (Intraday): 221.23
+Change: -11.92
+% Change: -5.11%
+Market Cap: 14.718B
+Volume in Currency (Since 0:00 UTC): 6.725B
+Volume in Currency (24Hr): 6.725B
+Total Volume All Currencies (24Hr): 6.725B
+Circulating Supply: 66.529M
 52 Week Range: 
-Symbol: CAN
-Name: Canaan Inc.
-Price (Intraday): 24.79
-Change: +7.46
-% Change: +43.05%
-Volume: 51.874M
-Avg Vol (3 month): 13.044M
-Market Cap: 3.884B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: LINK-USD
+Name: Chainlink USD
+Price (Intraday): 32.33
+Change: -2.35
+% Change: -6.78%
+Market Cap: 13.207B
+Volume in Currency (Since 0:00 UTC): 1.764B
+Volume in Currency (24Hr): 1.764B
+Total Volume All Currencies (24Hr): 1.764B
+Circulating Supply: 408.51M
 52 Week Range: 
-Symbol: CCL
-Name: Carnival Corporation & plc
-Price (Intraday): 24.59
-Change: +1.70
-% Change: +7.43%
-Volume: 50.689M
-Avg Vol (3 month): 41.455M
-Market Cap: 27.45B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: BCH-USD
+Name: BitcoinCash USD
+Price (Intraday): 677.88
+Change: -14.78
+% Change: -2.13%
+Market Cap: 12.65B
+Volume in Currency (Since 0:00 UTC): 5.509B
+Volume in Currency (24Hr): 5.509B
+Total Volume All Currencies (24Hr): 5.509B
+Circulating Supply: 18.662M
 52 Week Range: 
-Symbol: ZOM
-Name: Zomedica Corp.
-Price (Intraday): 2.2800
-Change: +0.0700
-% Change: +3.17%
-Volume: 50.523M
-Avg Vol (3 month): 176.296M
-Market Cap: 2.159B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: XLM-USD
+Name: Stellar USD
+Price (Intraday): 0.4806
+Change: -0.0164
+% Change: -3.30%
+Market Cap: 10.796B
+Volume in Currency (Since 0:00 UTC): 1.527B
+Volume in Currency (24Hr): 1.527B
+Total Volume All Currencies (24Hr): 1.527B
+Circulating Supply: 22.463B
 52 Week Range: 
-Symbol: BAC
-Name: Bank of America Corporation
-Price (Intraday): 34.54
-Change: +0.35
-% Change: +1.02%
-Volume: 53.118M
-Avg Vol (3 month): 49.837M
-Market Cap: 298.799B
-PE Ratio (TTM): 18.47
+1 Day Chart: 
+Symbol: USDC-USD
+Name: USDCoin USD
+Price (Intraday): 1.0000
+Change: -0.0000
+% Change: -0.00%
+Market Cap: 7.732B
+Volume in Currency (Since 0:00 UTC): 2.015B
+Volume in Currency (24Hr): 2.015B
+Total Volume All Currencies (24Hr): 2.015B
+Circulating Supply: 7.732B
 52 Week Range: 
-Symbol: AAL
-Name: American Airlines Group Inc.
-Price (Intraday): 18.68
-Change: +0.97
-% Change: +5.48%
-Volume: 47.349M
-Avg Vol (3 month): 72.565M
-Market Cap: 11.949B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: DOGE-USD
+Name: Dogecoin USD
+Price (Intraday): 0.0569
+Change: +0.0008
+% Change: +1.52%
+Market Cap: 7.306B
+Volume in Currency (Since 0:00 UTC): 2.641B
+Volume in Currency (24Hr): 2.641B
+Total Volume All Currencies (24Hr): 2.641B
+Circulating Supply: 128.468B
 52 Week Range: 
-Symbol: GSAT
-Name: Globalstar, Inc.
-Price (Intraday): 2.1500
-Change: -0.0800
-% Change: -3.59%
-Volume: 46.314M
-Avg Vol (3 month): 37.894M
-Market Cap: 3.591B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: XEM-USD
+Name: NEM USD
+Price (Intraday): 0.5936
+Change: +0.0780
+% Change: +15.12%
+Market Cap: 5.342B
+Volume in Currency (Since 0:00 UTC): 322.599M
+Volume in Currency (24Hr): 322.599M
+Total Volume All Currencies (24Hr): 322.599M
+Circulating Supply: 9B
 52 Week Range: 
-Symbol: F
-Name: Ford Motor Company
-Price (Intraday): 11.58
-Change: +0.15
-% Change: +1.31%
-Volume: 44.832M
-Avg Vol (3 month): 76.682M
-Market Cap: 46.073B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: ATOM2-USD
+Name: Cosmos USD
+Price (Intraday): 22.05
+Change: -1.93
+% Change: -8.07%
+Market Cap: 4.642B
+Volume in Currency (Since 0:00 UTC): 1.105B
+Volume in Currency (24Hr): 1.105B
+Total Volume All Currencies (24Hr): 1.105B
+Circulating Supply: 210.551M
 52 Week Range: 
-Symbol: ITUB
-Name: Itaú Unibanco Holding S.A.
-Price (Intraday): 5.13
-Change: -0.02
-% Change: -0.39%
-Volume: 42.068M
-Avg Vol (3 month): 36.731M
-Market Cap: 47.696B
-PE Ratio (TTM): 8.02
+1 Day Chart: 
+Symbol: EOS-USD
+Name: EOS USD
+Price (Intraday): 4.8801
+Change: -0.1078
+% Change: -2.16%
+Market Cap: 4.64B
+Volume in Currency (Since 0:00 UTC): 3.781B
+Volume in Currency (24Hr): 3.781B
+Total Volume All Currencies (24Hr): 3.781B
+Circulating Supply: 950.75M
 52 Week Range: 
-Symbol: NIO
-Name: NIO Limited
-Price (Intraday): 55.04
-Change: +0.61
-% Change: +1.12%
-Volume: 41.926M
-Avg Vol (3 month): 129.782M
-Market Cap: 85.802B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: BSV-USD
+Name: BitcoinSV USD
+Price (Intraday): 238.35
+Change: +3.66
+% Change: +1.56%
+Market Cap: 4.447B
+Volume in Currency (Since 0:00 UTC): 1.116B
+Volume in Currency (24Hr): 1.116B
+Total Volume All Currencies (24Hr): 1.116B
+Circulating Supply: 18.659M
 52 Week Range: 
-Symbol: FCX
-Name: Freeport-McMoRan Inc.
-Price (Intraday): 37.49
-Change: +3.35
-% Change: +9.81%
-Volume: 38.18M
-Avg Vol (3 month): 21.018M
-Market Cap: 54.735B
-PE Ratio (TTM): 91.44
+1 Day Chart: 
+Symbol: ATOM1-USD
+Name: Cosmos USD
+Price (Intraday): 20.49
+Change: -1.64
+% Change: -7.41%
+Market Cap: 4.315B
+Volume in Currency (Since 0:00 UTC): 1.21B
+Volume in Currency (24Hr): 1.21B
+Total Volume All Currencies (24Hr): 1.21B
+Circulating Supply: 210.551M
 52 Week Range: 
-Symbol: FCEL
-Name: FuelCell Energy, Inc.
-Price (Intraday): 20.22
-Change: +1.76
-% Change: +9.53%
-Volume: 38.646M
-Avg Vol (3 month): 67.845M
-Market Cap: 6.519B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: XMR-USD
+Name: Monero USD
+Price (Intraday): 240.46
+Change: -18.58
+% Change: -7.17%
+Market Cap: 4.291B
+Volume in Currency (Since 0:00 UTC): 870.382M
+Volume in Currency (24Hr): 870.382M
+Total Volume All Currencies (24Hr): 870.382M
+Circulating Supply: 17.846M
 52 Week Range: 
-Symbol: GOLD
-Name: Barrick Gold Corporation
-Price (Intraday): 19.78
-Change: -0.54
-% Change: -2.66%
-Volume: 37.642M
-Avg Vol (3 month): 19.761M
-Market Cap: 35.034B
-PE Ratio (TTM): 11.62
+1 Day Chart: 
+Symbol: TRX-USD
+Name: TRON USD
+Price (Intraday): 0.0574
+Change: -0.0018
+% Change: -3.01%
+Market Cap: 4.116B
+Volume in Currency (Since 0:00 UTC): 2.034B
+Volume in Currency (24Hr): 2.034B
+Total Volume All Currencies (24Hr): 2.034B
+Circulating Supply: 71.66B
 52 Week Range: 
-Symbol: WFC
-Name: Wells Fargo & Company
-Price (Intraday): 37.83
-Change: +0.87
-% Change: +2.35%
-Volume: 34.675M
-Avg Vol (3 month): 37.262M
-Market Cap: 156.768B
-PE Ratio (TTM): 92.27
+1 Day Chart: 
+Symbol: MIOTA-USD
+Name: IOTA USD
+Price (Intraday): 1.3488
+Change: -0.0521
+% Change: -3.72%
+Market Cap: 3.749B
+Volume in Currency (Since 0:00 UTC): 148.985M
+Volume in Currency (24Hr): 148.985M
+Total Volume All Currencies (24Hr): 148.985M
+Circulating Supply: 2.78B
 52 Week Range: 
-Symbol: PLUG
-Name: Plug Power Inc.
-Price (Intraday): 55.89
-Change: +5.66
-% Change: +11.27%
-Volume: 34.055M
-Avg Vol (3 month): 40.856M
-Market Cap: 29.885B
-PE Ratio (TTM): N/A
+1 Day Chart: 
+Symbol: NEO-USD
+Name: NEO USD
+Price (Intraday): 51.36
+Change: +1.87
+% Change: +3.79%
+Market Cap: 3.623B
+Volume in Currency (Since 0:00 UTC): 2.239B
+Volume in Currency (24Hr): 2.239B
+Total Volume All Currencies (24Hr): 2.239B
+Circulating Supply: 70.539M
 52 Week Range: 
-Symbol: ABEV
-Name: Ambev S.A.
-Price (Intraday): 2.8100
-Change: +0.0500
-% Change: +1.81%
-Volume: 30.404M
-Avg Vol (3 month): 22.56M
-Market Cap: 43.98B
-PE Ratio (TTM): 15.97
+1 Day Chart: 
+Symbol: THETA-USD
+Name: THETA USD
+Price (Intraday): 3.4503
+Change: -0.2722
+% Change: -7.31%
+Market Cap: 3.45B
+Volume in Currency (Since 0:00 UTC): 122.014M
+Volume in Currency (24Hr): 122.014M
+Total Volume All Currencies (24Hr): 122.014M
+Circulating Supply: 1B
 52 Week Range: 
-Symbol: VALE
-Name: Vale S.A.
-Price (Intraday): 18.22
-Change: +0.24
-% Change: +1.33%
-Volume: 29.663M
-Avg Vol (3 month): 30.44M
-Market Cap: 93.467B
-PE Ratio (TTM): 157.07
+1 Day Chart: 
+Symbol: XTZ-USD
+Name: Tezos USD
+Price (Intraday): 4.4667
+Change: -0.2680
+% Change: -5.66%
+Market Cap: 3.398B
+Volume in Currency (Since 0:00 UTC): 483.206M
+Volume in Currency (24Hr): 483.206M
+Total Volume All Currencies (24Hr): 483.206M
+Circulating Supply: 760.818M
 52 Week Range: 
+1 Day Chart: 
