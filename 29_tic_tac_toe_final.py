@@ -1,3 +1,4 @@
+#! python3
 """
 Your challenge in this exercise is to use the functions from those previous exercises
 all together in the same program to make a two-player game that you can play with a friend.
