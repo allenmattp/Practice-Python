@@ -21,8 +21,6 @@ def guess_letter(word):
     hangman_art.ascii(0)                                    # print welcome text
     hangman_art.hangmanpics(guess)                          # print starting
 
-    print(word)
-
     while not over:
         if guess or string != list("_" * len(word)):        # don't print guessed letters first turn
             print("\nGuessed letters:\n", guessed_letters, "\n")
