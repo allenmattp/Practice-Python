@@ -23,7 +23,7 @@ def guess_letter(word):
 
     while not over:
         if guess or string != list("_" * len(word)):        # don't print guessed letters first turn
-            print("\nGuessed letters:\n", guessed_letters, "\n")
+            print("\nGuessed letters:\n", guessed_letters, "\n") # statement here
         [print(l, end=" ") for l in string]                 # show current status of word
         letter = input("\n\nGuess a letter: ").upper()      # take user's guess
         letter = letter[0]                                  # only accept first letter
@@ -33,8 +33,8 @@ def guess_letter(word):
 
         elif letter in word:                                # letter is in word
             print("")
-            hangman_art.ascii(6)                            # print correct
             hangman_art.hangmanpics(guess)                  # print current gallows
+            hangman_art.ascii(6)                            # print correct
             for l in range(len(word)):
                 if letter == word[l]:
                     string[l] = letter
@@ -50,9 +50,9 @@ def guess_letter(word):
 
         else:                                               # letter not in word
             print("")
-            hangman_art.ascii(5)                            # print incorrect
             guess += 1
             hangman_art.hangmanpics(guess)                  # print current gallows
+            hangman_art.ascii(5)                            # print incorrect
             if guess > 5:                                   # end if max guesses reached
                 streak = 0
                 if streak > high_score:
@@ -61,7 +61,8 @@ def guess_letter(word):
                 print("It was", word)
                 print("High Score: ", high_score)
                 over = True
-        guessed_letters.append(letter)                  # track guessed letters
+        if letter not in guessed_letters:
+            guessed_letters.append(letter)                  # track guessed letters
 
     play_again()
 
